@@ -1,5 +1,5 @@
 # gf-binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GrammaticalFramework/gf-binder/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabrielnogueiralt/gf-binder/master)
 
 ## Playing with GF notebooks
 Just press the icon above! Note that your changes or any new notebooks you create *will not be persistent*. That is, if you close your tab and go back later, all changes will be lost!
